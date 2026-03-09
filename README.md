@@ -7,14 +7,14 @@
 *Приложите скриншоты конфигурации, выполнения работы: состояния и режимы работы серверов.*
 
 ---
-![alt text](https://github.com/Morfey29/sdb-12-06/blob/main/imgage/1.png)
-![alt text](https://github.com/Morfey29/sdb-12-06/blob/main/imgage/1-1.png)
-![alt text](https://github.com/Morfey29/sdb-12-06/blob/main/imgage/1-2.png)
-![alt text](https://github.com/Morfey29/sdb-12-06/blob/main/imgage/2.png)
-![alt text](https://github.com/Morfey29/sdb-12-06/blob/main/imgage/3.png)
-![alt text](https://github.com/Morfey29/sdb-12-06/blob/main/imgage/4.png)
-![alt text](https://github.com/Morfey29/sdb-12-06/blob/main/imgage/5.png)
-![alt text](https://github.com/Morfey29/sdb-12-06/blob/main/imgage/6.png)
+![alt text](https://github.com/Morfey29/sdb-12-06/blob/main/image/1-1.png)
+![alt text](https://github.com/Morfey29/sdb-12-06/blob/main/image/1-1.png)
+![alt text](https://github.com/Morfey29/sdb-12-06/blob/main/image/1-2.png)
+![alt text](https://github.com/Morfey29/sdb-12-06/blob/main/image/2.png)
+![alt text](https://github.com/Morfey29/sdb-12-06/blob/main/image/3.png)
+![alt text](https://github.com/Morfey29/sdb-12-06/blob/main/image/4.png)
+![alt text](https://github.com/Morfey29/sdb-12-06/blob/main/image/5.png)
+![alt text](https://github.com/Morfey29/sdb-12-06/blob/main/image/6.png)
 
 ### Задание 2
 
@@ -28,7 +28,7 @@
 
 *Пришлите блоксхему, где и что будет располагаться. Опишите, в каких режимах будут работать сервера.* 
 
-![alt text](https://github.com/Morfey29/sdb-12-06/blob/main/imgage/7.png)
+![alt text](https://github.com/Morfey29/sdb-12-06/blob/main/image/7.png)
 
 Описание схемы:
 
